@@ -93,7 +93,7 @@
     <string name="weather_custom_location_hint">Cidade, Estado/País</string>
     <string name="weather_custom_location_title">Local</string>
     <string name="weather_show_location_title">Exibir local</string>
-    <string name="weather_show_timestamp_title">Exbir horário</string>
+    <string name="weather_show_timestamp_title">Exibir horário</string>
     <string name="weather_refresh_interval">Intervalo de atualização</string>
     <string name="weather_use_metric">Usar sistema métrico</string>
     <string name="weather_retrieve_location_dialog_title">Não é possível definir sua localização!</string>
@@ -115,6 +115,8 @@
     <string name="calendar_lookahead_1day">1 dia</string>
     <string name="calendar_lookahead_3days">3 dias</string>
     <string name="calendar_lookahead_1wk">1 semana</string>
+    <string name="calendar_lookahead_2wks">2 semanas</string>
+    <string name="calendar_lookahead_4wks">4 semanas</string>
     <string name="calendar_metadata_none">Não exibir</string>
     <string name="calendar_metadata_first_line">Exibir primeira linha</string>
     <string name="calendar_metadata_all">Exibir tudo</string>
