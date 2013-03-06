@@ -21,6 +21,7 @@
     <string name="unknown">未知</string>
     <string name="cancel">取消</string>
     <string name="loading_indicator">載入小工具\u2026</string>
+    <string name="menu_done">完成</string>
 
     <!-- Weather - Weather codes -->
     <string name="weather_0">龍卷風</string>
