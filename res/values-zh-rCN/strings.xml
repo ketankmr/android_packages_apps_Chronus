@@ -137,6 +137,8 @@
     <string name="weather_progress_title">正在验证位置</string>
     <string name="weather_alternate_icons_title">使用彩色图标</string>
     <string name="weather_alternate_icons_summary">将默认白色的图标替换为另一套彩色的图标</string>
+    <string name="weather_show_when_minimized_title">天气讯息常驻</string>
+    <string name="weather_show_when_minimized_summary">小部件最小化时仍然显示天气讯息</string>
 
     <!-- Preferences - Calendar -->
     <string name="calendar_title">显示下一个活动</string>

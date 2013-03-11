@@ -138,6 +138,8 @@
     <string name="weather_progress_title">正在驗證位置</string>
     <string name="weather_alternate_icons_title">使用色彩圖像</string>
     <string name="weather_alternate_icons_summary">將預設白色的圖像替代為另一套色彩的圖像</string>
+    <string name="weather_show_when_minimized_title">天氣訊息常駐</string>
+    <string name="weather_show_when_minimized_summary">小工具最小化時仍然顯示天氣訊息</string>
 
     <!-- Preferences - Calendar -->
     <string name="calendar_title">顯示下一個活動</string>
