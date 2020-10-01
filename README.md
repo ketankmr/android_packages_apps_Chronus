@@ -1,4 +1,4 @@
-Lock Clock
+Lock Clock - Widget
 ==========
 
-A Lock Clock with weather And Calendar 
+A Lock Clock with weather And Calendar.
